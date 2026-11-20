@@ -7,7 +7,7 @@
 
 I build web apps with **Next.js, React, Node/Express and MongoDB**. Computer Programming at Seneca College.
 
-- 🔭 Currently working on: leveling up my projects with TypeScript, testing and CI
+- 🔭 Currently working on: the TTC Live Dashboard, leveling up my projects with TypeScript, testing and CI
 - 🌱 Learning: TypeScript, Next.js App Router, GitHub Actions
 - 🤝 Open to: internships, junior developer roles and open-source collaboration
 - 📫 Reach me: **kelvinkctl@gmail.com**
@@ -16,6 +16,7 @@ I build web apps with **Next.js, React, Node/Express and MongoDB**. Computer Pro
 
 | Project | What it is | Stack |
 | --- | --- | --- |
+| [TTC Live Dashboard](https://github.com/kelvinlct/ttc-live-dashboard) · [Live demo](https://ttc-live-dashboard.vercel.app) | Real-time Toronto TTC arrivals, live vehicle map, nearby stops and service alerts | Next.js App Router, TypeScript |
 | [Metropolitan Museum Explorer](https://github.com/kelvinlct/metropolitan-museum) · [Live demo](https://my-app-pjm7.vercel.app/) | Browse and search the Met Museum's collection, with user login and favourites | Next.js, React, Jotai, SWR, React Bootstrap |
 | [User API](https://github.com/kelvinlct/user-api) | REST API with user registration and JWT authentication | Node.js, Express, MongoDB, Passport, JWT |
 | [Portfolio](https://github.com/kelvinlct/kelvin-first-portfoilo) · [Live site](https://kelvinlct.github.io/kelvin-first-portfoilo/) | My personal portfolio site | HTML, CSS, Bootstrap |
